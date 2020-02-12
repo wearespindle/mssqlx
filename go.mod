@@ -1,4 +1,4 @@
-module github.com/linxGnu/mssqlx
+module github.com/wearespindle/mssqlx
 
 require (
 	github.com/go-sql-driver/mysql v1.4.1-0.20191114115753-b4242bab7dc5
